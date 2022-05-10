@@ -1,0 +1,13 @@
+######################
+# Project Specific
+######################
+debug.log
+
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+yarn.lock
+package-lock.json
